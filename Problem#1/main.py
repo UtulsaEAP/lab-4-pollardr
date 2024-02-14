@@ -1,6 +1,9 @@
+# Riley Pollard
+# Thursday Lab 2pm, Wednesday Class
+
 def kilo_to_pounds(kilos):
     # This statement intentionally has an error. 
-    return (kilos / 2.204)
+    return (kilos * 2.204)
 
 
 # Main part of the program starts here. Do not remove the line below.
